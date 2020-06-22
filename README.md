@@ -1,5 +1,7 @@
 <center>
+
 ![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
+
 </center>
 
 # <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
@@ -8,9 +10,13 @@
 
 Instructor: *Alejandro Correa Bahnsen*
 
-email: al.bahnsen@gmail.com
-twitter: @albahnsen
-github: albahnsen
+
+* email: al.bahnsen@gmail.com
+
+* twitter: @albahnsen
+
+* github: albahnsen
+
 The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Machine learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Machine Learning technology.
 
 This course on Time Series Analysis, Machine Learning and Natural Language Processing will explain how to build systems that learn and adapt using real-world applications. Some of the topics to be covered include time series analysis, machine learning, python data analysis, natural language processing models and recurrent models. The course will be project-oriented, with emphasis placed on writing software implementations of learning algorithms applied to real-world problems, in particular, churn modeling, natural language processing, sentiment detection, among others.
@@ -21,7 +27,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 2. Analysis of the context of the problem and relevance of the analysis: This should answer the question of why it is interesting or important to study the selected data.
 
-3.Understanding the data: Understand and analyze the main components of the time series, for example: seasonality, cyclicity, autocorrelation, behavior of the residuals, among others. Make use of graphs that allow you to understand each of the components clearly.
+3. Understanding the data: Understand and analyze the main components of the time series, for example: seasonality, cyclicity, autocorrelation, behavior of the residuals, among others. Make use of graphs that allow you to understand each of the components clearly.
 
 4. Application of the model in predictions: Correct use of the models seen in class to make predictions related to the problem of interest.
 
@@ -39,5 +45,5 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |File|Location|
 |----|--------|
-|Notebook|* [Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
-|Dataset|* [Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
+|Notebook|*  [Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
+|Dataset|*  [Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
