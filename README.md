@@ -2,12 +2,12 @@
 ![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
 
 
-## <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
+### <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
 
 # <center> Métodos Avanzados de Análisis de datos </center>
 
 
-## P1 - Time Series Analysis
+### P1 - Time Series Analysis
 
 ### Due date: June 22nd at midnight
 
