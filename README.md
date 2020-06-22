@@ -4,18 +4,16 @@
 
 </center>
 
-# <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
-
 # Métodos Avanzados de Análisis de datos
 
 Instructor: *Alejandro Correa Bahnsen*
 
 
-* email: al.bahnsen@gmail.com
+* email: [al.bahnsen@gmail.com](mailto:al.bahnsen@gmail.com)
 
-* twitter: @albahnsen
+* twitter: [@albahnsen](https://twitter.com/albahnsen)
 
-* github: albahnsen
+* github: [albahnsen](https://github.com/albahnsen)
 
 The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Machine learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Machine Learning technology.
 
@@ -43,7 +41,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 # Contenido
 ### Proyecto 1
 
-|File|Location|
+|Description|File|
 |----|--------|
-|Notebook|*  [Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
-|Dataset|*  [Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
+|Notebook|[Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
+|Dataset|[Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
