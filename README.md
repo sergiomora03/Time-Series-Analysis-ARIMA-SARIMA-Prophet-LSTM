@@ -1,33 +1,27 @@
-
+<center>
 ![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
+</center>
 
+# <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
 
-### <center> MIIA - Maestría en Inteligencia Analítica para toma de decisiones </center>
+# Métodos Avanzados de Análisis de datos
 
-# <center> Métodos Avanzados de Análisis de datos </center>
+Instructor: *Alejandro Correa Bahnsen*
 
+email: al.bahnsen@gmail.com
+twitter: @albahnsen
+github: albahnsen
+The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Machine learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Machine Learning technology.
 
-### P1 - Time Series Analysis
+This course on Time Series Analysis, Machine Learning and Natural Language Processing will explain how to build systems that learn and adapt using real-world applications. Some of the topics to be covered include time series analysis, machine learning, python data analysis, natural language processing models and recurrent models. The course will be project-oriented, with emphasis placed on writing software implementations of learning algorithms applied to real-world problems, in particular, churn modeling, natural language processing, sentiment detection, among others.
 
-### Due date: June 22nd at midnight
-
-* The result of your analysis will be evaluated from a report in Jupiter, which must be found in a public GitHub repository.
-* The project must be carried out in groups of 4 people.
-* Use clear and rigorous procedures.
-* The delivery of the project is on June 22, 2020, 11:59 pm, through Sicua + (Upload repository link).
-
-Projects will not be received after the delivery time or by any other means than the one established.
-The project seeks to analyze a question of interest, which can be framed within a context, in order to interpret the results
+# P1 - Time Series Analysis
 
 1. Choosing your time series (Friday June 12th).
 
-For the project, each group must select a dataset of their choice where the analysis can be performed using a time series model. There are many sources of time series data on the Internet. Government agencies are some of the best sources. But be resourceful. It is better to find a data set is from a process that interests you. Use a recent time-series, also try to avoid a tipical stock-price / exchange rates series. The selected time series must be sent no later than Friday, June 12 11:59 pm, through Sicua +, for approval.
-
-The analysis of the data must consider:
-
 2. Analysis of the context of the problem and relevance of the analysis: This should answer the question of why it is interesting or important to study the selected data.
 
-3. Understanding the data: Understand and analyze the main components of the time series, for example: seasonality, cyclicity, autocorrelation, behavior of the residuals, among others. Make use of graphs that allow you to understand each of the components clearly.
+3.Understanding the data: Understand and analyze the main components of the time series, for example: seasonality, cyclicity, autocorrelation, behavior of the residuals, among others. Make use of graphs that allow you to understand each of the components clearly.
 
 4. Application of the model in predictions: Correct use of the models seen in class to make predictions related to the problem of interest.
 
@@ -39,3 +33,11 @@ The analysis of the data must consider:
 * Javier Alfonso Lesmes Patiño - Cod. 200820243;
 * Luis Jorge García Camargo - Cod. 201920053;
 * Sergio Alberto Mora Pardo - Cod. 201920547.
+
+# Contenido
+### Proyecto 1
+
+|File|Location|
+|----|--------|
+|Notebook|* [Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
+|Dataset|* [Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
