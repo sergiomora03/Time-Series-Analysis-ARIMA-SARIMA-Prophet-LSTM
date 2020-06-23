@@ -1,6 +1,6 @@
 <center>
 
-![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png){:width="36px"}
+![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
 
 </center>
 
@@ -47,8 +47,8 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description|File|
 |:-----------|:----|
-|/Notebook   | [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb)          |
-|/           | [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb)|
-|/           | [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb)  |
+|Notebook   || 1. [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb)          |
+|           ||^^ 2. [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb)|
+|           ||^^ 3. [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb)  |
 
 
