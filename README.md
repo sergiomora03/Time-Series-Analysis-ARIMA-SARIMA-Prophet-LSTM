@@ -63,3 +63,15 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 |                 ^^ |          2 FADH |      3 ATP |
 |                                   30--32 ATP    |||
 
+
+
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
