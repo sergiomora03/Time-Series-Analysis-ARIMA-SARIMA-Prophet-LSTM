@@ -65,13 +65,10 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 
 
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
+| column 1 | column 2 |
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
+|----------|----------|
+| value    | * value 1|
+|          | * value 2|
