@@ -66,9 +66,6 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 
 | column 1 | column 2 |
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
-|----------|----------|
-| value    | * value 1|
-|          | * value 2|
+|:----------:|----------|
+| value | <p>value 1<br>value 2</p> |
+| value | <p>value 1<br>value 2</p> |
