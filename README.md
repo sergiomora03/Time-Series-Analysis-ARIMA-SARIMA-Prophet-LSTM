@@ -8,7 +8,6 @@
 
 Instructor: *Alejandro Correa Bahnsen*
 
-
 * email: [al.bahnsen@gmail.com](mailto:al.bahnsen@gmail.com)
 * twitter: [@albahnsen](https://twitter.com/albahnsen)
 * github: [albahnsen](https://github.com/albahnsen)
@@ -48,6 +47,6 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description|File|
 |-----------|----|
-|Notebook  || * [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb)          |
-|^^        || ^^ * [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb)|
-|^^        || ^^ * [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb)  |
+|Notebook  || [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb)          |
+|^^        || ^^ [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb)|
+|^^        || ^^ [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb)  |
