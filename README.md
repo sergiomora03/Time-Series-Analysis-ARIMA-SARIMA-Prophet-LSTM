@@ -47,25 +47,4 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description  | File|
 |-----------: |:------------:|
-|    Notebook | 1. [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb)          |
-|          ^^ | 2. [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb)|
-|          ^^ | 3. [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb)  |
-
-
-
-|              Stage | Direct Products | ATP Yields |
-| -----------------: | --------------: | ---------: |
-|         Glycolysis |           2 ATP |            |
-|                 ^^ |          2 NADH |   3--5 ATP |
-| Pyruvaye oxidation |          2 NADH |      5 ATP |
-|  Citric acid cycle |          2 ATP              ||
-|                 ^^ |          6 NADH |     15 ATP |
-|                 ^^ |          2 FADH |      3 ATP |
-|                                   30--32 ATP    |||
-
-
-
-| column 1 | column 2 |
-|:----------:|----------|
-| value | <p>value 1<br>value 2</p> |
-| value | <p>value 1<br>value 2</p> |
+|    Notebook | <p> 1. [E02-TSA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E02-TSA.ipynb) <br> 2. [E03-ARIMA](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E03-ARIMA_grupo.ipynb) <br> 3. [E05-prophet](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/Excercises/E05-prophet.ipynb) <\p>|
