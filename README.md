@@ -40,7 +40,7 @@ This course on Time Series Analysis, Machine Learning and Natural Language Proce
 
 |Description|File|
 |----|--------|
-|Notebook|[Proyecto 1](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
+|Notebook|[Proyecto 1](https://nbviewer.jupyter.org/github/sergiomora03/Time-Series-Analysis-ARIMA-SARIMA-Prophet-LSTM/blob/master/notebooks/Proyecto_1_M%C3%A9todos_de_An%C3%A1lisis_Avanzados.ipynb)|
 |Dataset|[Monthly beer production](https://github.com/sergiomora03/AdvancedMethodsDataAnalysis/blob/master/dataset/datasets_56102_107707_monthly-beer-production-in-austr.csv)|
 
 ### Ejercicios
